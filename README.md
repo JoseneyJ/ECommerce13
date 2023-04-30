@@ -51,7 +51,7 @@ Your walkthrough video should also show the POST, PUT, and DELETE routes for pro
 
 ## Getting Started
 
-This Challenge will require a video submission. Refer to the [Fullstack Blog Video Submission Guide](https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide) for additional guidance on creating a video.
+This Challenge will require a video submission. 
 
 You’ll need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv](https://www.npmjs.com/package/dotenv) package to use environment variables to store sensitive data.
 
@@ -186,3 +186,14 @@ After creating the models and routes, run `npm run seed` to seed data to your da
 ### Sync Sequelize to the Database on Server Start
 
 Create the code needed in `server.js` to sync the Sequelize models to the MySQL database on server start.
+
+## Video URL 
+
+
+## Snippets
+<img width="1072" alt="Screenshot 2023-04-30 at 10 16 24 AM" src="https://user-images.githubusercontent.com/119374215/235358090-b84d6618-7420-48f2-a464-2a84a94c62c2.png">
+
+<img width="1072" alt="Screenshot 2023-04-30 at 10 17 01 AM" src="https://user-images.githubusercontent.com/119374215/235358095-1fa627ea-b965-4a76-b286-1df970a6db50.png">
+
+<img width="1072" alt="Screenshot 2023-04-30 at 10 18 10 AM" src="https://user-images.githubusercontent.com/119374215/235358107-39e072f3-1653-4667-92a1-8caba6a1b662.png">
+
