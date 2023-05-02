@@ -196,7 +196,5 @@ Create the code needed in `server.js` to sync the Sequelize models to the MySQL 
 
 <img width="1435" alt="Screenshot 2023-05-02 at 12 16 57 AM" src="https://user-images.githubusercontent.com/119374215/235578192-5d71e293-7d3d-4b38-beb6-a89fea1aa77e.png">
 
-<img width="1435" alt="Screenshot 2023-05-02 at 12 16 57 AM" src="https://user-images.githubusercontent.com/119374215/235578208-2e6a9e0b-90bf-42d2-b67a-2c50faf9c14f.png">
-
 <img width="1435" alt="Screenshot 2023-05-02 at 12 17 10 AM" src="https://user-images.githubusercontent.com/119374215/235578220-f38bdc09-9873-4cdb-a618-191cebdaf8d7.png">
 
